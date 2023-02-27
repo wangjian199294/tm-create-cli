@@ -1,6 +1,6 @@
 {
   "name": "tm-create-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a simple CLI for scaffolding of FE",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NuoHui/easy-cli.git"
+    "url": "https://github.com/wangjian199294/tm-create-cli.git"
   },
   "keywords": [
     "cli",
